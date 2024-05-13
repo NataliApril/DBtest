@@ -1,0 +1,18 @@
+Ссылки для работы в PostgresDB:
+1. Установка БД
+https://www.linuxcapable.com/install-postgresql-15-on-ubuntu/
+https://computingforgeeks.com/install-postgresql-14-on-ubuntu-jammy-jellyfish/
+
+on Raspberry:
+https://singleboardblog.com/install-postgresql-on-raspberry-pi/
+
+2. Подключение у графиескому интерфейсу PgAdmin4:
+https://sibsisadmin.ru/pgadmin-podkluchenie-bd/
+
+3. Создание пользователя для удаленного подключения:
+https://timeweb.cloud/tutorials/postgresql/kak-sozdat-polzovatelya-postgresql
+https://www.dmosk.ru/miniinstruktions.php?mini=pgsql-remote
+https://1cloud.ru/help/windows/ws2019_psql_remote_coonect
+
+4. Подключкние к БД из программы Python:
+https://www.psycopg.org/docs/module.html
